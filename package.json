@@ -1,10 +1,10 @@
 {
-  "name": "home",
-  "author": "imsyy",
-  "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "name": "frozen_throne",
+  "author": "Arthas",
+  "github": "https://github.com/Arthaslixin/FrozenThrone-vue",
+  "home": "",
   "private": true,
-  "version": "4.1.4",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
